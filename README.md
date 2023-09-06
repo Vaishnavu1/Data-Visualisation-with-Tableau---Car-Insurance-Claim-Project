@@ -1,1 +1,2 @@
 # Data-Visualisation-with-Tableau---Car-Insurance-Claim-Project
+An insurance company always needs to be prepared to estimate the number of accidents and the claims that they can expect to receive at a given point in time. You're a Lead Business Analyst at an insurance firm. You must design an interactive dashboard that will benefit both the client and the firm, primarily to understand the pattern of the claims and for decision making on how to design policies accordingly and increasing the claims for better profitability.
